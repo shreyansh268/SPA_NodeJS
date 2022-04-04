@@ -2,7 +2,7 @@
   "name": "spa_js",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "frontend/static/js/index.js",
   "scripts": {
     "test": ""
   },
