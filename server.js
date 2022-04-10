@@ -10,4 +10,4 @@ app.get("/*", (req, res) =>
     res.sendFile(path.resolve(__dirname, "frontend", "index.html"));
 });
 
-app.listen(process.env.PORT || 8080, () => console.log("Server listening..."));
+app.listen(process.env.PORT || 3300, () => console.log("Server listening..."));
